@@ -4,7 +4,7 @@ CandyWrapper
 <h1>Table of contents<h1>
 
 <ol>
-<li>About<li>
+<li>About</li>
 <li>Installation </li>
 <li>Features</li>
 <li>Next version goals</li>
