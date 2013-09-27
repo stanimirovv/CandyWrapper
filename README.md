@@ -11,5 +11,9 @@ CandyWrapper
 <br/><br/>
 <h2>Installation</h2>
 <p>Drag the following link to your bookmarks: <br/>
-<a href="javascript: (function () {  var css1 = '<link rel="stylesheet" type="text/css" href="https://raw.github.com/IamBc/CandyWrapper/master/betaCSS3.css">" media="screen" />'; var js1 = '<script src="https://raw.github.com/IamBc/CandyWrapper/master/BETAJS5.js" />';   $("head").append(css1);$("head").append(js1); $('body').append('<div class="cont2"><button class="btn btnSmall" onclick="hideDyn()">hide</button> <button class="btn" onclick="loadAbout()">About</button><button class="btn" onclick="saveLoad()">Save/Load</button> <button class="btn" onclick="modesBoosts()">Modes/Boosts</button><button class="btn" onclick="loadCreator()">Create</button></div><div id="dynamic"></div>');}())">CandyWrapper</a>
+javascript: (function () {
+   
+}());
+<a href="javascript: (function () {  var css1 = '<link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://googledrive.com/host/0B2D15HdwMCy1OUNuQkNNVHNBMUE/betaCSS3.css&quot;>&quot; media=&quot;screen&quot; />'; var js1 = '<script src=&quot;https://raw.github.com/IamBc/CandyWrapper/master/BETAJS5.js&quot; />';   $('head').append(css1);$('head').append(js1); $('body').append('<div class=&quot;cont2&quot;><button class=&quot;btn btnSmall&quot; onclick=&quot;hideDyn()&quot;>hide</button> <button class=&quot;btn&quot; onclick=&quot;loadAbout()&quot;>About</button><button class=&quot;btn&quot; onclick=&quot;saveLoad()&quot;>Save/Load</button> <button class=&quot;btn&quot; onclick=&quot;modesBoosts()&quot;>Modes/Boosts</button><button class=&quot;btn&quot; onclick=&quot;loadCreator()&quot;>Create</button></div><div id=&quot;dynamic&quot;></div>');}())">CandyWrapper</a>
 </p>
+
