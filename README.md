@@ -1,7 +1,7 @@
 CandyWrapper
 ============
 
-<h1>Table of contents<h1>
+<h2>Table of contents<h2>
 
 <ol>
 <li>About</li>
