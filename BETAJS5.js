@@ -115,13 +115,14 @@ function modesBoosts() {
                                                      "<ul>" +
                                                      "<li><a href='(function(){candies.candiesPerSecond = 3; candies.nbrOwned += 2000}())'>Fast</a></li>" +
                                                      "<li><a href='(function(){ candies.candiesPerSecond = 0.3;}())'>Hard</a></li>" +
-                                                     "<li><a href='(function(){ candies.nbrOwned = 3000; termCandies();}())'>Hery hard</a></li>" +
+                                                     "<li><a href='(function(){ candies.nbrOwned = 3000; termCandies();}())'>Very hard</a></li>" +
                                                      "</ul>" +
                                                      "<p>boosters</p> " +
                                                      "<ul>" +
                                                      "<li><a href='javascript: (function () {candies.nbrOwned +=500;}())'>+500 candies</a></li>" +
                                                      "<li><a href='javascript: (function () {candies.nbrOwned +=5000;}())'>+5000 candies</a></li>" +
-                                                     "<li><a href='javascript: (function(){candies.candiesPerSecond = 3;}())'>3 candies per sec</a></li>" +
+                                                     "<li><a href='javascript: (function(){candies.candiesPerSecond = 1;}())'>1 candy per sec(default)</a></li>" +
+													 "<li><a href='javascript: (function(){candies.candiesPerSecond = 3;}())'>3 candies per sec</a></li>" +
                                                      "<li><a href='javascript: (function(){candies.candiesPerSecond = 15;}())'>15 candies per sec</a></li></ul></div>";
 }
 loadAbout();
