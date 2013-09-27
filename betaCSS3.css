@@ -1,0 +1,50 @@
+      a {
+                color:#EEF47A;
+            }
+
+            .center1 {
+                display:-webkit-box;
+                  -webkit-box-pack:center;
+                   -webkit-box-align:center;
+            }
+
+            #dynamic {
+                  display:-webkit-box;
+                  -webkit-box-pack:center;
+                   -webkit-box-align:center;
+                   
+            }
+            .why{
+                margin-left:25px;
+                float: left;
+            	width: 240px;
+          }
+            .cont {
+                position:absolute;
+                top:60px;
+                left:720px; 
+                min-height:50px;
+                width:450px;
+                border:2px solid black;
+                background:#565656;
+            }
+			   .cont2 {
+                position:absolute;
+                top:10px;
+                left:720px; 
+            }
+
+            .btn {
+                background:#B7D1E5;
+                border: 2px solid black;
+                min-width:90px;
+                height:30px;
+                }
+                .btn:hover {
+                    background:#EEF47A;
+                    cursor:pointer;
+                }
+
+            .btnSmall {
+                min-width:20px;
+            }
