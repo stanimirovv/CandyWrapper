@@ -30,4 +30,5 @@ to contribute to it through this plug-in.
 <ul>
 <li>Rework the booster creator</li>
 <li>Improve visuals</li>
+<li>Add the documentation to the github files</li>
 </ul>
