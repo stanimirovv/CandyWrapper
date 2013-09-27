@@ -24,7 +24,7 @@ to contribute to it through this plug-in.
 	<li>Booster packs - Extra candies or a faster candy per second rate with just a click away</li>
 	<li>Modes - Fast offering a faster progression, Hard and Very hard offering limited starting candies and limited candy generation</li>
 	<li>Booster creator - chose what you need. When you are finished click on it or give it a name and save it to your bookmarks for later.</li>
-<ul>
+</ul>
 <br/>
 <h2>Next version goals</h2>
 <ul>
