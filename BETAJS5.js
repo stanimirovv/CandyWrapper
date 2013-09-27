@@ -58,7 +58,7 @@ function updateStr() {
 }
 
 function loadAbout() {
-    document.getElementById("dynamic").innerHTML = ' <div class="cont">This is a plug in for the game candy box <a href="http://candies.aniwey.net/" target="_blank">(clicky)</a> <br /> <br />It offers a custom save/load system; a few modes of play; resource boosters and more <br /><br /><br /><span style="margin-left:15px;">-Bc</span><a style="float:right;" href="http://candies.aniwey.net/" target="_blank">Git</a></div>';
+    document.getElementById("dynamic").innerHTML = ' <div class="cont">This is a plug in for the game candy box <a href="http://candies.aniwey.net/" target="_blank">(clicky)</a> <br /> <br />It offers a custom save/load system; a few modes of play; resource boosters and more <br /><br /><br /><span style="margin-left:15px;">-Bc</span><a style="float:right;" href="https://github.com/IamBc/CandyWrapper" target="_blank">Git</a></div>';
 }
 
 function loadCreator() {
