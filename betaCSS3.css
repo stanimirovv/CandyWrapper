@@ -1,4 +1,4 @@
-      a {
+		    a {
                 color:#EEF47A;
             }
 
@@ -8,17 +8,22 @@
                    -webkit-box-align:center;
             }
 
+			
             #dynamic {
                   display:-webkit-box;
                   -webkit-box-pack:center;
                    -webkit-box-align:center;
                    
             }
-            .why{
+			
+			/* The creator lables*/
+            .label{
                 margin-left:25px;
                 float: left;
             	width: 240px;
           }
+		  
+			/* styles and poisitions the dynamic part of the app*/
             .cont {
                 position:absolute;
                 top:60px;
@@ -28,12 +33,15 @@
                 border:2px solid black;
                 background:#565656;
             }
+			
+			/* styles and poisitions the menu of the app*/
 			   .cont2 {
                 position:absolute;
                 top:10px;
                 left:720px; 
             }
 
+			/* styles the buttons of the menu*/	
             .btn {
                 background:#B7D1E5;
                 border: 2px solid black;
@@ -45,6 +53,6 @@
                     cursor:pointer;
                 }
 
-            .btnSmall {
-                min-width:20px;
-            }
+				.btnSmall {
+					min-width:20px;
+				}

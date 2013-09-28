@@ -11,7 +11,7 @@ CandyWrapper
 </ol>
 <br/><br/>
 <h2>About</h2>
-<p>The main purpose of this project was to get familuar with javascript injections. 
+<p>The main purpose of this project was to get familiar with javascript injections. 
 While creating this plug-in I created a hero in candy box and since I found myself enjoying the game quite much I decided
 to contribute to it through this plug-in.
 </p>
