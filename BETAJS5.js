@@ -122,7 +122,6 @@ function hideDyn() {
 
 //Updates the draggable url's name
 function changeLinktxt() {
-    console.log("click1");
     document.getElementById("link").innerHTML = document.getElementById("linktxt").value;
 }
 

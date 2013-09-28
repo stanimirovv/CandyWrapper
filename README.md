@@ -28,7 +28,5 @@ to contribute to it through this plug-in.
 <br/>
 <h2>Next version goals</h2>
 <ul>
-<li>Rework the booster creator</li>
 <li>Improve visuals</li>
-<li>Add the documentation to the github files</li>
 </ul>
