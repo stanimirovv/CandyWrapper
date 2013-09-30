@@ -25,6 +25,7 @@
 		  
 			/* styles and poisitions the dynamic part of the app*/
             .cont {
+                color: #CCFFFF;
                 position:absolute;
                 top:60px;
                 left:720px; 

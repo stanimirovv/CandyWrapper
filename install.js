@@ -2,7 +2,7 @@
     Drag copy the javascript to the function into a bookmark. Activate the bookmark once in the website.
 */
 javascript: (function () { 
-		 var css1 = '<link rel="stylesheet" type="text/css" href="https://googledrive.com/host/0B2D15HdwMCy1OUNuQkNNVHNBMUE/betaCSS5.css">" media="screen" />'; 
+		 var css1 = '<link rel="stylesheet" type="text/css" href="https://googledrive.com/host/0B2D15HdwMCy1OUNuQkNNVHNBMUE/betaCSS6.css">" media="screen" />'; 
 		 var js1 = '<script src="https://raw.github.com/IamBc/CandyWrapper/master/BETAJS5.js" />';   
 		 $("head").append(css1);
 		 $("head").append(js1); 
