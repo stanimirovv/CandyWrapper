@@ -55,11 +55,12 @@ function updateStr() {
     }
     console.log(middle);
 	//add string which will update the visuals of the code here.
-    var updateGui = "document.getElementById('candies_eaten').innerHTML = 'You have eaten  ' + candies.nbrEaten + 'candies!'"+
+    var updateGui = ";document.getElementById('candies_eaten').innerHTML = 'You have eaten  ' + candies.nbrEaten + 'candies!'"+
                     +"document.getElementById('candies_thrown').innerHTML = 'You threw    ' + candies.nbrThrown + 'candies on the ground :('" +
                     "document.getElementById('lollipops').innerHTML = 'You have    ' + lollipops.nbrOwned + 'lollipops'";
     middle += updateGui;
-
+    console.log(updateGui);
+    console.log(middle);
     document.getElementById("link").href = "javascript: (function () {" + middle + ";}())";
 }
 
