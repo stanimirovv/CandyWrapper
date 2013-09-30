@@ -54,9 +54,7 @@ function updateStr() {
         "; lollipops.nbrOwned =" + lStock.toString();
     }
     console.log(middle);
-
-    /* document.getElementById("link").href = "javascript: (function () {" + "candies.candiesPerSecond = " + perSec.toString() + "; candies.nbrOwned =" + cOwned.toString()
-         + "; candies.nbrEaten =" + cEaten.toString() + "; candies.nbrThrown =" + cThrown.toString() + "; lollipops.nbrOwned =" + lOwned.toString() + "; lollipops.nbrOwned =" + lStock.toString() + ";}())";*/
+	//add string which will update the visuals of the code here.
     document.getElementById("link").href = "javascript: (function () {" + middle + ";}())";
 }
 
