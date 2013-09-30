@@ -53,22 +53,20 @@ function updateStr() {
     if (document.getElementById("lStock").value != 0) {
         "; lollipops.nbrOwned =" + lStock.toString();
     }
-    console.log(middle);
-	//add string which will update the visuals of the code here.
-    var updateGui = ";document.getElementById('candies_eaten').innerHTML = 'You have eaten  ' + candies.nbrEaten + 'candies!';"+
-                    +"document.getElementById('candies_thrown').innerHTML = 'You threw    ' + candies.nbrThrown + 'candies on the ground :(';" +
-                    "document.getElementById('lollipops').innerHTML = 'You have    ' + lollipops.nbrOwned + 'lollipops';";
-    middle += updateGui;
-    console.log(updateGui);
-    console.log(middle);
-    document.getElementById("link").href = "javascript: (function () {" + middle + ";}())";
+
+    document.getElementById("link").href = "javascript: (function () {" + middle + ";updateGui();}())";
 }
 
+function updateGui() {
+    document.getElementById('candies_eaten').innerHTML = 'You have eaten  ' + candies.nbrEaten + 'candies!';
+    document.getElementById('candies_thrown').innerHTML = 'You threw    ' + candies.nbrThrown + 'candies on the ground :(';
+    document.getElementById('lollipops').innerHTML = 'You have    ' + lollipops.nbrOwned + 'lollipops';
+}
 
 //=============== The next few functions are used to update the app with the respective section
 //Loads the About section 
 function loadAbout() {
-    document.getElementById("dynamic").innerHTML = ' <div class="cont">This is a plug in for the game candy box <a href="http://candies.aniwey.net/" target="_blank">(clicky)</a> <br /> '+
+    document.getElementById("dynamic").innerHTML = ' <div class="cont">This is a plug in for the game candy box <a href="http://candies.aniwey.net/" target="_blank">(clicky)</a> <br /> ' +
 	'<br />It offers a custom save/load system; a few modes of play; resource boosters and more <br /><br /><br /><span style="margin-left:15px;">-Bc</span><a style="float:right;" href="https://github.com/IamBc/CandyWrapper" target="_blank">Git</a></div>';
 }
 
