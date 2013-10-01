@@ -91,7 +91,7 @@ function loadCreator() {
    '   <button onclick="clearAll()">Clear all</button><br /><br />' +
  '    <p style="display:block;text-align:center;"><a id="link" style="font-size: 32px;display:inline-block;" ondragstart="(function(){ updateVars();updateStr();}())" onclick="" href="javascript: (function () {    candies.candiesPerSecond = 1000;}());">Drag me to bookmarks</a></b>' +
  '  </div>';
-    window.setInterval(function () { changeLinktxt(); updateStr(); }, 300);
+    window.setInterval(function () { changeLinktxt(); updateVars(); updateStr(); }, 300);
 }
 
 //Loads the Save/Load section
