@@ -26,7 +26,3 @@ to contribute to it through this plug-in.
 	<li>Booster creator - chose what you need. When you are finished click on it or give it a name and save it to your bookmarks for later.</li>
 </ul>
 <br/>
-<h2>Next version goals</h2>
-<ul>
-<li>Improve visuals</li>
-</ul>
