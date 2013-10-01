@@ -48,7 +48,7 @@ function updateStr() {
         middle += "; candies.nbrThrown +=" + cThrown.toString();
     }
     if (document.getElementById("lOwned").value != 0) {
-        "; lollipops.nbrOwned +=" + lOwned.toString();
+       middle += "; lollipops.nbrOwned +=" + lOwned.toString();
     }
     if (document.getElementById("lStock").value != 0) {
         "; lollipops.nbrOwned =" + lStock.toString();
@@ -60,7 +60,7 @@ function updateStr() {
 function updateGui() {
     document.getElementById('candies_eaten').innerHTML = 'You have eaten  ' + candies.nbrEaten + 'candies!';
     document.getElementById('candies_thrown').innerHTML = 'You threw    ' + candies.nbrThrown + 'candies on the ground :(';
-    document.getElementById('lollipops').innerHTML = 'You have    ' + lollipops.nbrOwned + 'lollipops';
+    document.getElementById('lollipops').innerHTML = 'You have    ' + lollipops.nbrOwned + ' lollipops';
 }
 
 //=============== The next few functions are used to update the app with the respective section
