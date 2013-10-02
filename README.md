@@ -7,7 +7,7 @@ CandyWrapper
 <li>About</li>
 <li>Installation </li>
 <li>Features</li>
-<li>Next version goals</li>
+<li>How to use instructions</li>
 </ol>
 <br/><br/>
 <h2>About</h2>
@@ -20,9 +20,15 @@ to contribute to it through this plug-in.
 <br/>
 <h2>Features</h2>
 <ul>
-	<li>One click save/load system. Instead of having to write down codes just click on the button. Note: When saving a new character for the first time (meaning a new code) you must save 2 times before the change is final</li>
+	<li>One click save/load system. Instead of having to write down codes just click on the button. Note: </li>
 	<li>Booster packs - Extra candies or a faster candy per second rate with just a click away</li>
 	<li>Modes - Fast offering a faster progression, Hard and Very hard offering limited starting candies and limited candy generation</li>
 	<li>Booster creator - chose what you need. When you are finished click on it or give it a name and save it to your bookmarks for later.</li>
 </ul>
 <br/>
+<h2>How to use instructions</h2>
+<p>Due to the add on being unoficial my code had to bend to the original design. A few minor issues turned up. Here they are:</p>
+<ul>
+<li>When saving a new character for <b>the first</b>(and only the first) time (meaning a new code) you <b>must save 2 times</b> before the change is final.</li>
+<li>When creating your own booster make sure you have bought 1 lollipop, thrown atleast 10 candies and eaten all the candies once. If you try to add resources to something before they have been initialised the effect won't be triggered.</li>
+</ul>
