@@ -13,7 +13,7 @@ CandyWrapper
 <h2>About</h2>
 <p>The main purpose of this project was to get familiar with javascript injections. 
 While creating this plug-in I created a hero in candy box and since I found myself enjoying the game quite much I decided
-to contribute to it through this plug-in.
+to contribute to it through this project.
 </p>
 <h2>Installation</h2>
 <p>Insert the javascript from the "install.js" file into a bookmark and activate the bookmark once the candy box website has loaded<br/>
@@ -22,7 +22,7 @@ to contribute to it through this plug-in.
 <ul>
 	<li>One click save/load system. Instead of having to write down codes just click on the button. Note: </li>
 	<li>Booster packs - Extra candies or a faster candy per second rate with just a click away</li>
-	<li>Modes - Fast offering a faster progression, Hard and Very hard offering limited starting candies and limited candy generation</li>
+	<li>Modes - <b>Fast</b> offering a faster progression, <b>Hard</b> and <b>Very hard</b> offering limited starting candies and limited candy generation</li>
 	<li>Booster creator - chose what you need. When you are finished click on it or give it a name and save it to your bookmarks for later.</li>
 </ul>
 <br/>
