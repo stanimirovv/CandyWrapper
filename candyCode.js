@@ -67,7 +67,7 @@ function updateGui() {
 //Loads the About section 
 function loadAbout() {
     document.getElementById("dynamic").innerHTML = ' <div class="cont">This is a plug in for the game candy box <a href="http://candies.aniwey.net/" target="_blank">(clicky)</a> <br /> ' +
-	'<br />It offers a custom save/load system; a few modes of play; resource boosters and more <br /><br /><br /><span style="margin-left:15px;">-Bc</span><a style="float:right;" href="https://github.com/IamBc/CandyWrapper" target="_blank">Git</a></div>';
+	'<br />It offers a custom save/load system; a few modes of play; resource boosters and more. <br />For more information visit the Github link below :)<br /><br /><span style="margin-left:15px;">-Bc</span><a style="float:right;" href="https://github.com/IamBc/CandyWrapper" target="_blank">Git</a></div>';
 }
 
 //Loads the Booster Creator
