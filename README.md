@@ -12,8 +12,8 @@ CandyWrapper
 <br/><br/>
 <h2>About</h2>
 <p>The main purpose of this project was to get familiar with javascript injections. 
-While creating this plug-in I created a hero in candy box and since I found myself enjoying the game quite much I decided
-to contribute to it through this project.
+While creating this plug-in I created a hero in <a href="http://candies.aniwey.net/">candy box</a> and since I found myself enjoying the game quite much I decided
+to contribute to it through this project. It improves some of the game functionality.
 </p>
 <h2>Installation</h2>
 <p>Insert the javascript from the "install.js" file into a bookmark and activate the bookmark once the candy box website has loaded<br/>
